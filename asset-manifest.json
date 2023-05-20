@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tabs-mini-project-app/static/css/main.cf38550b.css",
+    "main.js": "/tabs-mini-project-app/static/js/main.6b0bb6ca.js",
+    "index.html": "/tabs-mini-project-app/index.html",
+    "main.cf38550b.css.map": "/tabs-mini-project-app/static/css/main.cf38550b.css.map",
+    "main.6b0bb6ca.js.map": "/tabs-mini-project-app/static/js/main.6b0bb6ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38550b.css",
+    "static/js/main.6b0bb6ca.js"
+  ]
+}
